@@ -24,6 +24,7 @@ $ git clone https://github.com/WebUwU/InvGen.git
 $ cd InvGen
 $ 'pip install -r requirements.txt' or run 'setup.bat'
 $ python main.py
+```
 
 
 ## Notes
