@@ -13,10 +13,10 @@ A short description of your project and what it does.
 - **Feature 3**: Proxy Support
 - **Feature 4**: Proxy Checker
 
-## Screenshots
+## Requirements
 
-![Screenshot 1](https://media.discordapp.net/attachments/919544037952880681/1069201701455790100/image.png?width=962&height=334)
-
+- Python 3.x
+- librarys in requirements.txt
 ## Installation
 
 ```bash
@@ -32,3 +32,8 @@ $ python main.py
 - Generated invite codes will be saved to a text file named `codes.txt`
 - Valid invite codes will be saved to a text file named `valid.txt`
 - The proxy checker will save the working proxies to the same `proxy.txt` file, overwriting any previous content.
+
+
+## Screenshots
+
+![Screenshot 1](https://media.discordapp.net/attachments/919544037952880681/1069201701455790100/image.png?width=962&height=334)
