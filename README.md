@@ -1,4 +1,4 @@
-# Awesome Project
+# InvGen by WebUwU
 
 [![GitHub issues](https://img.shields.io/github/issues/WebUwU/InvGen.svg)](https://github.com/WebUwU/InvGen/issues)
 [![GitHub stars](https://img.shields.io/github/stars/WebUwU/InvGen.svg)](https://github.com/WebUwU/InvGen/stargazers)
@@ -10,15 +10,16 @@ A short description of your project and what it does.
 
 ## Features
 
-- **Feature 1**: Discord Server Invite Gen
-- **Feature 2**: Discord Server Invite checker
-- **Feature 3**: Proxy Support
-- **Feature 4**: Proxy Checker
+- **Discord Server Invite Genr**
+- **Discord Server Invite checker**
+- **Proxy Support** 
+- **Proxy Checker** 
 
 ## Requirements
 
 - Python 3.x
 - librarys in requirements.txt
+- 
 ## Installation
 
 ```bash
