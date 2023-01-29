@@ -1,6 +1,6 @@
 # Awesome Project
 
-[![Build Status](https://travis-ci.org/WebUwU/InvGen?branch=master)](https://travis-ci.org/WebUwU/InvGen)
+[![Build Status](https://travis-ci.com/WebUwU/InvGen?branch=master)](https://travis-ci.com/WebUwU/InvGen)
 [![GitHub issues](https://img.shields.io/github/issues/WebUwU/InvGen.svg)](https://github.com/WebUwU/InvGen/issues)
 [![GitHub stars](https://img.shields.io/github/stars/WebUwU/InvGen.svg)](https://github.com/WebUwU/InvGen/stargazers)
 [![GitHub license](https://img.shields.io/github/license/WebUwU/InvGen.svg)](https://github.com/WebUwU/InvGen/blob/master/LICENSE)
