@@ -38,3 +38,7 @@ $ python main.py
 ## Screenshots
 
 ![Screenshot 1](https://media.discordapp.net/attachments/919544037952880681/1069201701455790100/image.png?width=962&height=334)
+
+
+## License
+This project is licensed under the [MIT License](https://github.com/WebUwU/InvGen/blob/master/LICENSE)
