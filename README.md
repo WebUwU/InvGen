@@ -34,6 +34,12 @@ $ python main.py
 - Valid invite codes will be saved to a text file named `valid.txt`
 - The proxy checker will save the working proxies to the same `proxy.txt` file, overwriting any previous content.
 
+### Discord Community
+
+Join our Discord community to stay updated on the latest developments and connect with like-minded individuals.
+
+[![Discord](https://discordapp.com/api/guilds/1068951240043659365/embed.png?style=banner2)](https://discord.gg/qwSWWH2ZQ6)
+
 
 ## Screenshots
 
